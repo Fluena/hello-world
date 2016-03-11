@@ -1,7 +1,11 @@
 h1 {
-	font-size: 300px;
+	font-size: 240px;
 	color: darkseagreen;
 }
 html {
-	background-color: pink;
+	background-color: beige;
+}
+h2 {
+	font-size: 150;
+	color: cornflowerblue;
 }
